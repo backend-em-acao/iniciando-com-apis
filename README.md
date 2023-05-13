@@ -1,6 +1,6 @@
 # Python e FastAPI: Iniciando com APIs de forma prática
 
-Este projeto faz parte do vídeo **Python e FastAPI: Iniciando com APIs de forma prática** do canal **Backend em Ação**. Estamos no YouTube, considere se inscrever e ajudar o canal. teste 3
+Este projeto faz parte do vídeo **Python e FastAPI: Iniciando com APIs de forma prática** do canal **Backend em Ação**. Estamos no YouTube, considere se inscrever e ajudar o canal.
 
 **Para dúvidas ou sugestões, entre em contato pelo YouTube. Obrigado!**
 
